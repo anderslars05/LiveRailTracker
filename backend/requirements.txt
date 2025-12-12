@@ -1,0 +1,10 @@
+Django
+djangorestframework
+psycopg2-binary
+celery
+redis
+gunicorn
+django-cors-headers
+django-environ
+channels
+channels-redis
